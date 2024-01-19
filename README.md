@@ -1,4 +1,7 @@
 # code-space
+
+Principales funciones utilizadas en el codigo:
+
 <ul>
 <li>Variables y Constantes:
 
